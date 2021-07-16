@@ -1,4 +1,5 @@
 #+TITLE: Readme
 
 * Requirements
-- NRC-VAD-Lexicon-Aug2018Release
+- add the =NRC-VAD-Lexicon-Aug2018Release= to this project
+- use =Poetry= or =pip= to install packages listed in =pyproject.toml=
